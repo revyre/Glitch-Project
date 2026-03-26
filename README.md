@@ -5,9 +5,9 @@ Files for the Game Development and Implementation's group assignment.
 ---
 Project Manager: [revyre](https://github.com/revyre)  
 Gameplay Programmer: [masuka-png](https://github.com/masuka-png)  
-Technical Artist:  
+Technical Artist:
 Concept Artist: [cody-wody](https://github.com/cody-wody)  
-Environment Artist:  
+Environment Artist: [BlankCanvas09](https://github.com/BlankCanvas09)  
 3D Modeller:  
-Level Designer: [revyre](https://github.com/revyre), [cody-wody](https://github.com/cody-wody), [masuka-png](https://github.com/masuka-png)  
+Level Designer: [revyre](https://github.com/revyre), [cody-wody](https://github.com/cody-wody), [masuka-png](https://github.com/masuka-png), [BlankCanvas09](https://github.com/BlankCanvas09)
 Sound Designer:  
