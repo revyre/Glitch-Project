@@ -9,5 +9,5 @@ Technical Artist:
 Concept Artist: [cody-wody](https://github.com/cody-wody)  
 Environment Artist: [BlankCanvas09](https://github.com/BlankCanvas09)  
 3D Modeller:  
-Level Designer: [revyre](https://github.com/revyre), [cody-wody](https://github.com/cody-wody), [masuka-png](https://github.com/masuka-png), [BlankCanvas09](https://github.com/BlankCanvas09)
+Level Designer: [revyre](https://github.com/revyre), [cody-wody](https://github.com/cody-wody), [masuka-png](https://github.com/masuka-png), [BlankCanvas09](https://github.com/BlankCanvas09)  
 Sound Designer:  
