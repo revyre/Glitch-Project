@@ -6,7 +6,7 @@ Project Manager: [revyre](https://github.com/revyre)
 
 Gameplay Programmer: [masuka-png](https://github.com/masuka-png)  
 
-Technical Artist:  
+Technical Artist: [jackbean07](https://github.com/jackbean07)
 
 Concept Artist: [cody-wody](https://github.com/cody-wody)    
 
